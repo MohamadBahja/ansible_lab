@@ -1,0 +1,5 @@
+secrets.yml
+*.pyc
+*.log
+.env
+.venv
